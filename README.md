@@ -26,7 +26,7 @@
  sno|name|rno
  
  ---| ---|---
-  [kane](https://gumlet.assettype.com/freepressjournal/2019-10/af773361-6fe8-4e6d-a91b-fd0cf98ec2f2/cats.jpg?format=webp&w=400&dpr=2.6)  
- 
+ 1|[kane](https://gumlet.assettype.com/freepressjournal/2019-10/af773361-6fe8-4e6d-a91b-fd0cf98ec2f2/cats.jpg?format=webp&w=400&dpr=2.6)  
+ 2|[smith](https://www.cricket.com.au/~/-/media/News/2019/11/22Smith7000.ashx?w=1600)
    
  
