@@ -23,11 +23,9 @@
 
 [virat kohli](https://images.news18.com/ibnlive/uploads/2021/09/virat-kohli-bat-skipper-16318006124x3.jpg)
     
- sno|name|rno
- 
- ---| ---|---
- 
+ sno|name|rno 
+ ---| ---|--- 
  1|[kane](https://gumlet.assettype.com/freepressjournal/2019-10/af773361-6fe8-4e6d-a91b-fd0cf98ec2f2/cats.jpg?format=webp&w=400&dpr=2.6)|45  
- 2|[smith](https://www.cricket.com.au/~/-/media/News/2019/11/22Smith7000.ashx?w=1600)|36
+ 2|[smith](https://www.cricket.com.au/~/-/media/News/2019/11/22Smith7000.ashx?w=1600)|49
    
  
